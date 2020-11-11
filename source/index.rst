@@ -13,7 +13,6 @@ Welcome to linear algebra's documentation!
    :caption: Contents:
 
 
-
 -----------------
 P4
 -----------------
