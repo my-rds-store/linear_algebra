@@ -46,9 +46,7 @@ P5
 
 .. raw:: html
 
-    <iframe src="http://player.bilibili.com/player.html?aid=6731067&bvid=BV1ys411472E&cid=10959714&page=5&danmaku=0" width="750" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
+    <iframe src="https://player.bilibili.com/player.html?aid=6731067&bvid=BV1ys411472E&cid=10959714&page=5&danmaku=0" width="750" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 
@@ -74,7 +72,7 @@ P7
 
 .. raw:: html
 
-    <iframe src="http://player.bilibili.com/player.html?aid=6731067&bvid=BV1ys411472E&cid=10959714&page=7&danmaku=0" width="750" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    <iframe src="https://player.bilibili.com/player.html?aid=6731067&bvid=BV1ys411472E&cid=10959714&page=7&danmaku=0" width="750" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 .. image:: ./img/P7/P7.png
        :height: 500 px
