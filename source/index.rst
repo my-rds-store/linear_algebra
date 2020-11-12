@@ -13,6 +13,14 @@ Welcome to linear algebra's documentation!
    :caption: Contents:
 
 
+`线性代数的本质 <https://www.bilibili.com/video/BV1ys411472E>`_
+==================================================================
+
+
+* `Manim Kindergarten 中文教程文档 <https://manim.ml/index.html>`_
+
+------------
+
 -----------------
 P4
 -----------------
@@ -28,6 +36,9 @@ P4
        :scale: 80%
        :alt: alternate text
        :align: center
+
+
+------------
 
 -----------------
 P5
